@@ -1,11 +1,23 @@
-<!Doctype html>
-<html>
-<body style="background-color:thistle;">
-<title>Real Estate</title>
-</head>
-<body>
-
-<h1>Open Houses</h1>
-<p>During an open house, a seller's real estate agent or broker holds open hours during which the home is available for the public to view.<br>Potential buyers may drop by anytime within the scheduled hours, without an appointment.</p>
-An open house is a scheduled period of time in which a home is available for viewing by potential buyers. Open houses can attract interested buyers and lead to an offer or alert the realtor to issues with the space that might be pointed out.
-<br>An open house provides a chance for aspiring homeowners to walk through the property on their own or guided by an agent to see if it's a property that they want to make an offer on. These tours provide prospective buyers with more time to leisurely view the home and its surroundings than one-on-one showings do.<br>
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+  <div class="navbar">
+    <li><a href="./">About</a></li>
+    <li><a href="html/publications">Publications</a></li>
+  </div>
+  <div class="main">
+    <div class="clearfix" width=80%>
+      <img class="imgl" scr="aaron-picture.jpg" alt="
+      <h1>Real Estate</h1>
+      <p>
+      Real estate is property consisting of land and the buildings on it, along with its natural resources such as crops, minerals or water; immovable property of this nature; an interest vested in this an item of real property, buildings or housing in general.
+      The most common way to sell a home, used in 90% of sales, is to use a local real estate agent. 1 The agent will list the home, market it, and coordinate showings with other agents and potential buyers. They will also help you evaluate offers, negotiate terms with the buyer, and ensure the deal goes through.
+      During an open house, a seller's real estate agent or broker holds open hours during which the home is available for the public to view. Potential buyers may drop by anytime within the scheduled hours, without an appointment.
+       </p>
+    </div>
+     </body>
+ </html>
